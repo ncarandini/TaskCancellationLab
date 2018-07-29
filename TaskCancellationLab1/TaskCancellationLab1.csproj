@@ -4,14 +4,13 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CC847C37-3F7D-48CD-8883-F6F3A8C36493}</ProjectGuid>
+    <ProjectGuid>{F9B9704B-B58C-4326-BCE2-F3E7F19B3A73}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>TaskCancellationLab</RootNamespace>
-    <AssemblyName>TaskCancellationLab</AssemblyName>
+    <RootNamespace>TaskCancellationLab1</RootNamespace>
+    <AssemblyName>TaskCancellationLab1</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
-    <Deterministic>true</Deterministic>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
